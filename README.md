@@ -6,7 +6,7 @@
 [![PyPI](https://img.shields.io/pypi/v/feeluown.svg)](https://pypi.python.org/pypi/feeluown)
 [![python](https://img.shields.io/pypi/pyversions/fuocore.svg)](https://pypi.python.org/pypi/feeluown)
 
-FeelUOwn 是一个符合 Unix 哲学的跨平台的音乐播放器～
+FeelUOwn 是一个符合 Unix 哲学的跨平台的音乐播放器
 
 [![macOS 效果预览](https://user-images.githubusercontent.com/4962134/52162110-ea439f80-2709-11e9-9558-47f015de839b.png)](https://www.bilibili.com/video/av46787694/)
 
